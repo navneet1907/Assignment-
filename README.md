@@ -28,5 +28,6 @@ Assignment details:
 Difficulties faced:
 
 1.Subsribe button overlaping with the input section.
-2.I have used CSS instead of SASS but tried to create a SASS file too. 
+2.I have used CSS instead of SASS but tried to create a SASS file too.I have tried using SASS for the first time so I hope it will be fine.
+
 
